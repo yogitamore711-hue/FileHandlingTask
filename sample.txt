@@ -1,0 +1,3 @@
+Hello CODTECH Internship
+This is File Handling Task
+File Modified Successfully
